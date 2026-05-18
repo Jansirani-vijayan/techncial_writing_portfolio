@@ -1,17 +1,45 @@
 # Jansirani V — Technical Writing Portfolio
 
-## Senior Technical Writer | Documentation Engineer
+## Senior Technical Writer | Documentation Engineer | API, Cloud, CLI & DITA XML |  Docs-as-Code
 
-Welcome to my technical writing portfolio. This portfolio showcases my ability to create clear, structured, and user-focused documentation for enterprise software, networking, security, cloud, API, CLI, and product-integrated online help systems.
+Welcome to my technical writing portfolio. This portfolio showcases sanitized documentation samples created to demonstrate my ability to write clear, structured, user-focused, and technically accurate documentation for enterprise software, networking, cloud, API, CLI, and product-integrated help systems.
 
-I have 15+ years of experience in technical documentation across enterprise networking, application delivery, cybersecurity, fintech, aerospace, defense, semiconductor, and cloud-based product environments.
+I have 15+ years of experience in technical documentation across enterprise networking, application delivery, cybersecurity, cloud, fintech, aerospace, defense, semiconductor, and enterprise software environments.
+
+---
+
+## Portfolio Focus Areas
+
+- Enterprise product documentation
+- User manuals and administrator guides
+- REST API documentation
+- CLI command reference documentation
+- Cloud and virtual appliance deployment guides
+- Online Help / HTML5 Help
+- UX writing and product microcopy
+- AI-ready knowledge base strategy
+- Documentation modernization
+- Docs-as-code and Git-based documentation workflows
+
+---
+
+## Featured Portfolio Samples
+
+| Sample | What It Demonstrates |
+|---|---|
+| [User Manual / User Guide Sample](user-manual-sample/) | Task-based end-user documentation with procedures, expected results, notes, and troubleshooting. |
+| [API Documentation Sample](api-documentation-sample/) | REST API documentation for a network appliance, including authentication, request/response structure, status codes, examples, and troubleshooting. |
+| [CLI Administrator Guide Sample](cli-admin-guide-sample/) | CLI conventions, access modes, command syntax, parameters, examples, network configuration, HA, debug, and troubleshooting commands. |
+| [Multi-cloud Deployment Guide Sample](cloud-deployment-guide-sample/) | Azure-style, AWS-style, VMware ESXi-style, Nutanix-style, and virtual appliance deployment workflows with initial configuration and troubleshooting. |
+| [UX Writing Case Study](ux-writing-case-study/) | Before-and-after examples for error messages, empty states, warnings, confirmations, buttons, labels, and tooltips. |
+| [AI-ready Knowledge Base Strategy](ai-ready-kb-strategy/) | Taxonomy, metadata, topic templates, troubleshooting templates, search strategy, content reuse, and RAG-friendly documentation structure. |
 
 ---
 
 ## Documentation Strengths
 
-- User Guides and Administrator Guides
-- CLI Reference Guides
+- User Manuals, User Guides, and Administrator Guides
+- CLI Reference Guides and Command Documentation
 - REST API Documentation
 - Installation and Deployment Guides
 - Cloud Deployment Documentation
@@ -47,22 +75,9 @@ Enterprise Networking, ADC, Cybersecurity, Cloud, Virtual Appliances, Linux, Fin
 
 ---
 
-## Portfolio Samples
-
-| Sample | Description |
-|---|---|
-| [User Manual / User Guide Sample](user-manual-sample/) | End-user documentation with feature overview, task-based procedures, screenshots, notes, warnings, and troubleshooting |
-| [API Documentation Sample](api-documentation-sample/) | REST API documentation with authentication, endpoint details, JSON request/response examples, and error codes |
-| [CLI Administrator Guide Sample](cli-admin-guide-sample/) | Command syntax, configuration workflow, examples, and administrator-focused troubleshooting |
-| [Cloud Deployment Guide Sample](cloud-deployment-guide-sample/) | Deployment prerequisites, architecture overview, configuration, verification, upgrade, rollback, and troubleshooting |
-| [UX Writing Case Study](ux-writing-case-study/) | Before/after examples for error messages, empty states, and user-focused product microcopy |
-| [AI-ready Knowledge Base Strategy](ai-ready-kb-strategy/) | Taxonomy, metadata, reusable topic structure, search-friendly content, and AI/RAG-friendly documentation planning |
-
----
-
 ## Documentation Modernization Case Study
 
-In my recent role, I contributed to documentation modernization by moving documentation from static Word/PDF-based deliverables to MadCap Flare-based HTML5 online help.
+In my recent role, I contributed to documentation modernization by moving documentation from static Word/PDF-based deliverables to structured, topic-based online help.
 
 ### Problem
 
@@ -70,7 +85,7 @@ The documentation was primarily delivered as static Word/PDF files, making it ha
 
 ### Action
 
-I introduced MadCap Flare-based documentation workflows and migrated legacy Word documents into structured Flare projects. I created topic-based content, standardized styles, maintained reusable content, and generated HTML5 online help and PDF outputs.
+I introduced structured documentation workflows using MadCap Flare and migrated legacy Word documents into topic-based help projects. I standardized styles, created reusable content, improved navigation, and generated HTML5 online help and PDF outputs.
 
 I collaborated with Product, Engineering, QA, Support, UX, and Training teams to align documentation with product releases, customer requirements, and support needs. I also maintained documentation projects using Git/GitLab-based version control.
 
@@ -80,10 +95,30 @@ The documentation moved from static PDF-only delivery to product-integrated onli
 
 ---
 
+## About These Samples
+
+These samples are created for portfolio purposes. They are based on common enterprise documentation scenarios and my real documentation experience, but all confidential information has been removed or replaced with generic examples.
+
+The samples do not include proprietary product names, customer data, internal screenshots, real IP addresses, license keys, credentials, support contacts, or confidential implementation details.
+
+---
+
+## Roles I Am Targeting
+
+I am open to the following roles:
+
+- Senior Technical Writer
+- Lead Technical Writer
+- Information Developer
+- Documentation Engineer
+- API Documentation Writer
+- Cloud Documentation Writer
+- Technical Publications Specialist / Manager
+
+---
+
 ## Contact
 
-I am open to Senior Technical Writer, Lead Technical Writer, Information Developer, Documentation Engineer, and Technical Publications roles.
-
-**Location Preference:** Bengaluru / Chennai  
+**Location Preference:** Bengaluru / Chennai / Remote  
 **LinkedIn:** https://www.linkedin.com/in/jansirani-vijayan-6b5756aa/
 **Email:** jansiranivijayan@gmail.com
