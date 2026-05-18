@@ -51,12 +51,12 @@ Enterprise Networking, ADC, Cybersecurity, Cloud, Virtual Appliances, Linux, Fin
 
 | Sample | Description |
 |---|---|
-| User Manual / User Guide Sample | End-user documentation with feature overview, task-based procedures, screenshots, notes, warnings, and troubleshooting |
-| API Documentation Sample | REST API documentation with authentication, endpoint details, JSON request/response examples, and error codes |
-| CLI Administrator Guide Sample | Command syntax, configuration workflow, examples, and administrator-focused troubleshooting |
-| Cloud Deployment Guide Sample | Deployment prerequisites, architecture overview, configuration, verification, upgrade, rollback, and troubleshooting |
-| UX Writing Case Study | Before/after examples for error messages, empty states, and user-focused product microcopy |
-| AI-ready Knowledge Base Strategy | Taxonomy, metadata, reusable topic structure, search-friendly content, and AI/RAG-friendly documentation planning |
+| [User Manual / User Guide Sample](user-manual-sample/) | End-user documentation with feature overview, task-based procedures, screenshots, notes, warnings, and troubleshooting |
+| [API Documentation Sample](api-documentation-sample/) | REST API documentation with authentication, endpoint details, JSON request/response examples, and error codes |
+| [CLI Administrator Guide Sample](cli-admin-guide-sample/) | Command syntax, configuration workflow, examples, and administrator-focused troubleshooting |
+| [Cloud Deployment Guide Sample](cloud-deployment-guide-sample/) | Deployment prerequisites, architecture overview, configuration, verification, upgrade, rollback, and troubleshooting |
+| [UX Writing Case Study](ux-writing-case-study/) | Before/after examples for error messages, empty states, and user-focused product microcopy |
+| [AI-ready Knowledge Base Strategy](ai-ready-kb-strategy/) | Taxonomy, metadata, reusable topic structure, search-friendly content, and AI/RAG-friendly documentation planning |
 
 ---
 
