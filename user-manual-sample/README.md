@@ -74,5 +74,87 @@ Use this procedure to assign a role and enable access for a user.
 
 The system creates the user account and displays the following confirmation message:
 
-```text
-User account created successfully.
+> User account created successfully.
+
+The new user appears in the **User Management** table with the selected role and **Active** status.
+
+---
+
+## Modify User Access
+
+Use this procedure to update the role or status of an existing user.
+
+### Steps
+
+1. Go to **Administration > User Management**.
+
+2. Search for the user by name, username, or email address.
+
+3. Click the user record.
+
+4. Update the required fields:
+
+   - Role
+   - Account Status
+   - Department
+   - Assigned Groups
+
+5. Click **Save Changes**.
+
+---
+
+## Disable a User Account
+
+Disable a user account when the user no longer requires access to the application.
+
+### Steps
+
+1. Go to **Administration > User Management**.
+
+2. Search for the user account.
+
+3. Open the user record.
+
+4. In the **Account Status** field, select **Inactive**.
+
+5. Click **Save Changes**.
+
+---
+
+## Note
+
+Disabling a user account prevents the user from logging in. It does not delete the user's historical records or activity logs.
+
+---
+
+## Troubleshooting
+
+| Issue | Possible Cause | Resolution |
+|---|---|---|
+| User cannot log in | Account is inactive | Verify that the account status is set to **Active**. |
+| User cannot access a feature | Incorrect role assigned | Assign the correct role based on the user's responsibility. |
+| Save button is disabled | Required fields are missing | Complete all mandatory fields and try again. |
+| Duplicate username error appears | Username already exists | Enter a unique username. |
+
+---
+
+## Best Practices
+
+- Assign users only the access required for their role.
+- Review user access periodically.
+- Disable inactive users to reduce security risk.
+- Use role-based access control instead of assigning individual permissions manually.
+- Maintain an audit trail for access changes.
+
+---
+
+## Documentation Skills Demonstrated
+
+This sample demonstrates:
+
+- Task-based user documentation
+- Clear procedure writing
+- Enterprise application workflow explanation
+- Role and permission documentation
+- Notes and troubleshooting guidance
+- User-focused writing style
